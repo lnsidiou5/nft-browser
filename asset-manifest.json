@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//lnsidiou5.github.io/nft-browser/static/css/main.5916312e.css",
+    "main.js": "//lnsidiou5.github.io/nft-browser/static/js/main.e8251289.js",
+    "static/js/787.af2300ac.chunk.js": "//lnsidiou5.github.io/nft-browser/static/js/787.af2300ac.chunk.js",
+    "index.html": "//lnsidiou5.github.io/nft-browser/index.html",
+    "main.5916312e.css.map": "//lnsidiou5.github.io/nft-browser/static/css/main.5916312e.css.map",
+    "main.e8251289.js.map": "//lnsidiou5.github.io/nft-browser/static/js/main.e8251289.js.map",
+    "787.af2300ac.chunk.js.map": "//lnsidiou5.github.io/nft-browser/static/js/787.af2300ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5916312e.css",
+    "static/js/main.e8251289.js"
+  ]
+}
